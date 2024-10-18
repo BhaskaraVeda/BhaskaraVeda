@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bhaskara Veda Vishnu Datta</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🌱 I’m currently learning **Django framework**
-- 💻 I have strong experience with **HTML**, **CSS**, **JavaScript**, **Python**, **MySQL**, and **Oracle SQL**
-- ⚡ I enjoy solving complex problems and building scalable web applications
-- 📫 How to reach me: **vedabhaskara@gmail.com**
+I am a recent Electronics and Communication Engineering graduate from **Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya**, Kanchipuram, with a CGPA of **9.58**. During my studies, I developed a strong foundation in web technologies, databases, and programming, which I have applied to various projects and hands-on training. My journey has shaped me into a developer focused on crafting efficient, scalable, and user-friendly solutions.
+
+- 🌱 I’m currently expanding my knowledge in the **Django framework**.
+- 💻 I have hands-on experience with **HTML**, **CSS**, **JavaScript**, **Python**, **MySQL**, and **Oracle SQL**.
+- 🛠️ I have built and optimized web applications, developed databases, and worked on dynamic projects like creating a multitasking trolley for visually impaired individuals.
+- 🎓 In addition to my degree, I have completed professional training at **QSpiders, Hyderabad**, where I honed my skills in software development, web technologies, and databases.
+  
+I am actively seeking opportunities to apply my skills in real-world projects and contribute to innovative solutions. Please feel free to reach out to me:
+
+📫 **vedabhaskara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,11 +40,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
-
