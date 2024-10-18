@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhaskara Veda Vishnu Datta</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-I am a recent Electronics and Communication Engineering graduate from **Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya**, Kanchipuram, with a CGPA of **9.58**. During my studies, I developed a strong foundation in web technologies, databases, and programming, which I have applied to various projects and hands-on training. My journey has shaped me into a developer focused on crafting efficient, scalable, and user-friendly solutions.
+I am a recent Electronics and Communication Engineering graduate from **Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya**, Kanchipuram, with a CGPA of **9.58**. After my studies, I developed a strong foundation in web technologies, databases, and programming, which I have applied to various projects and hands-on training. My journey has shaped me into a developer focused on crafting efficient, scalable, and user-friendly solutions.
 
 - 🌱 I’m currently expanding my knowledge in the **Django framework**.
 - 💻 I have hands-on experience with **HTML**, **CSS**, **JavaScript**, **Python**, **MySQL**, and **Oracle SQL**.
