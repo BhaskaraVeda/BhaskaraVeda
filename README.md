@@ -40,7 +40,7 @@ Analyzed India’s export data to Western countries, revealing patterns in trade
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/veda-bhaskara)
 - 💻 [GitHub](https://github.com/BhaskaraVeda)
