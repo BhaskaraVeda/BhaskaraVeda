@@ -41,17 +41,10 @@ Analyzed India’s export data to Western countries, revealing patterns in trade
 
 ---
 
-## 🌱 I'm Currently Learning
-- Advanced DAX for Power BI
-- Real-time dashboard deployment with Power BI Service
-- Machine Learning fundamentals using Python
-
----
 
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/veda-bhaskara)
-- 💻 [GitHub](https://github.com/BhaskaraVeda)
 - 📧 vedabhaskara@gmail.com
 
 ---
