@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Bhaskara Veda Vishnu Datta
 
-🎓 A passionate and detail-oriented graduate in **Electronics and Communication Engineering** with a CGPA of **9.58** from Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya.
-
 🔍 I specialize in **Data Analysis** and **Business Intelligence**, turning raw data into actionable insights through tools like **Power BI**, **SQL**, and **Python**.
 
 ---
